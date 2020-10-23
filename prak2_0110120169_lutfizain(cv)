@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lutfi Zain - Curiculum vitae</title>
+    </head>
+    <body style="background-color :powderblue;">
+        <h1 align= center style="background-color: aqua;">CV RIWAYAT HIDUP</h1>
+        <hr>
+            <h1 style="font-family:courier;">Tujuan Karir</h1>
+            <div class="sectionContent">
+                <p>
+                    Sebagai seorang lulusan di bidang teknik komputer dan jaringan, saya berkeinginan untuk mengembangkan dan menambah kemampuan di berbagai bidang lain,
+                    salah satunya adalah bidang informasi.
+                    Saya berambisi untuk terus mencari pengalaman sebanyak mungkin untuk menambah kualitas diri saya.
+                    Saya yakin bisa ikut meningkatkan kinerja perusahaan serta dapat diandalkan.
+                </p>
+            </div>
+        <hr>
+            <h2 style="font-family:courier;">DATA DIRI</h2>
+        <ol>
+            <li style="font-family:Courier;">Nama                   :           Lutfi Zain</li>
+            <li style="font-family:Courier;">Tempat/tanggal lahir   :           Jakarta / 10 November 2000</li>
+            <li style="font-family:Courier;">Jenis Kelamin          :           Laki-Laki</li>
+            <li style="font-family:Courier;">Alamat                 :           Kp.sawah RT08/RW01</li>
+            <li style="font-family:Courier;">Pekerjaan              :           Mahasiswa/Pelajar</li>
+            <li style="font-family:Courier;">Agama                  :           Islam</li>
+        </ol>
+        <hr>
+        <div>
+            <h2 style="font-family:courier;">Pendidikan</h2>
+        </div>
+        <table border="1" style="widht:100%">
+            <thead>
+                <tr>
+                    <th style="font-famiy:courier;">No</th>
+                    <th style="font-famiy:courier;">Tahun</th>
+                    <th style="font-famiy:courier;">Sekolah</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td align="center" style="font-family:courier;">1</td>
+                    <td align="center" style="font-family:courier;">2007</td>
+                    <td style="font-family:courier;">SDN SRENGSENG SAWAH 14 PAGI</td>
+                </tr>
+                <tr>
+                    <td align="center" style="font-family:courier;">2</td>
+                    <td align="center" style="font-family:courier;">2014</td>
+                    <td style="font-family:courier;">SMPN 276 JAKARTA</td>
+                </tr>
+                <tr>
+                    <td align="center" style="font-family:courier;">3</td>
+                    <td align="center" style="font-family:courier;">2017</td>
+                    <td style="font-family:courier;">SMK 3 PERGURUAN CIKINI</td>
+                </tr>
+
+            </tbody>
+        </table>
+
+    </body>
+</html>
